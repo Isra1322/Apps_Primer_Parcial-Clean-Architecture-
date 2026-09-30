@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cannonView
+id fragment
+layout activity_main
+layout fragment_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw blocker
+raw cannon
+raw target
+string app_name
+string lose
+string reset_game
+string results_format
+string time_remaining_format
+string win
+style Theme.CannonGame

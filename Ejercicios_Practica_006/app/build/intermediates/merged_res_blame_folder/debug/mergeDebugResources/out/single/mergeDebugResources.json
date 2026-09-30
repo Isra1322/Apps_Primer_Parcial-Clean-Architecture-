@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/raw_cannon.ogg.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/raw/cannon.ogg"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/raw_target.ogg.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/raw/target.ogg"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/layout_fragment_main.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "uta.fisei.cannongame.app-debug-31:/raw_blocker.ogg.flat",
+        "source": "uta.fisei.cannongame.app-main-33:/raw/blocker.ogg"
+    }
+]

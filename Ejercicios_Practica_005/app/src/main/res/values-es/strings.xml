@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doodlz</string>
+    <string name="button_erase">Borrar</string>
+    <string name="button_set_color">Establecer color</string>
+    <string name="button_set_line_width">Establecer grosor</string>
+    <string name="line_imageview_description">Ancho de línea</string>
+    <string name="label_alpha">Alfa</string>
+    <string name="label_red">Rojo</string>
+    <string name="label_green">Verde</string>
+    <string name="label_blue">Azul</string>
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_delete">Borrar dibujo</string>
+    <string name="menuitem_line_width">Grosor de línea</string>
+    <string name="menuitem_save">Guardar</string>
+    <string name="menuitem_print">Imprimir</string>
+    <string name="message_erase">¿Borrar el dibujo actual?</string>
+    <string name="message_error_saving">Error al guardar la imagen.</string>
+    <string name="message_saved">Imagen guardada.</string>
+    <string name="message_error_printing">Error al imprimir la imagen.</string>
+    <string name="message_pdf_saved">Archivo PDF guardado exitosamente.</string>
+    <string name="message_error_pdf">Error al guardar el archivo PDF.</string>
+    <string name="permission_explanation">Se requiere este permiso para guardar el dibujo.</string>
+    <string name="title_color_dialog">Color</string>
+    <string name="title_line_width_dialog">Grosor de línea</string>
+</resources>

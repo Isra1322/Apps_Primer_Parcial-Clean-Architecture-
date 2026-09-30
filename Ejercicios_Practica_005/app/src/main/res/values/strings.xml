@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Doodlz</string>
+
+    <string name="button_erase">Erase</string>
+    <string name="button_set_color">Set Color</string>
+    <string name="button_set_line_width">Set Line Width</string>
+
+    <string name="line_imageview_description">Line width</string>
+
+    <string name="label_alpha">Alpha</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+
+    <string name="menuitem_color">Color</string>
+    <string name="menuitem_delete">Erase Drawing</string>
+    <string name="menuitem_line_width">Line Width</string>
+    <string name="menuitem_save">Save</string>
+    <string name="menuitem_print">Print</string>
+
+    <string name="message_erase">Erase the current drawing?</string>
+    <string name="message_error_saving">Error saving image.</string>
+    <string name="message_saved">Image saved.</string>
+    <string name="message_error_printing">Error printing image.</string>
+    <string name="message_pdf_saved">PDF file saved successfully.</string>
+    <string name="message_error_pdf">Error saving PDF file.</string>
+
+    <string name="permission_explanation">This permission is required to save the drawing.</string>
+
+    <string name="title_color_dialog">Color</string>
+    <string name="title_line_width_dialog">Line Width</string>
+
+</resources>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Juego de Cañon</string>
+    <string name="win">¡Ganaste!</string>
+    <string name="lose">¡Juego Terminado!</string>
+    <string name="results_format">Disparos realizados: %1$d\nTiempo total: %2$.1f segundos</string>
+    <string name="reset_game">Reiniciar Juego</string>
+    <string name="time_remaining_format">Tiempo restante: %1$.1f segundos</string>
+</resources>

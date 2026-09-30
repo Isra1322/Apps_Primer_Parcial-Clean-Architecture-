@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">TU_API_KEY_AQUI</string>
+    <string name="app_name">Visor del Clima</string>
+    <string name="connect_error">No se pudo conectar a OpenWeatherMap.org</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="high_temp">Alta: %s</string>
+    <string name="hint_text">Ingrese la ciudad (ej. Madrid, ES)</string>
+    <string name="humidity">Humedad: %s</string>
+    <string name="invalid_url">URL Inválida</string>
+    <string name="low_temp">Baja: %s</string>
+    <string name="read_error">No se pudo leer la información del clima</string>
+    <string name="weather_condition_image">Una representación gráfica de las condiciones del clima</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+</resources>

@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+id conditionImageView
+id coordinatorLayout
+id dayTextView
+id fab
+id hiTextView
+id humidityTextView
+id locationEditText
+id lowTextView
+id toolbar
+id weatherListView
+layout activity_main
+layout content_main
+layout list_item
+string api_key
+string app_name
+string connect_error
+string day_description
+string high_temp
+string hint_text
+string humidity
+string invalid_url
+string low_temp
+string read_error
+string weather_condition_image
+string web_service_url

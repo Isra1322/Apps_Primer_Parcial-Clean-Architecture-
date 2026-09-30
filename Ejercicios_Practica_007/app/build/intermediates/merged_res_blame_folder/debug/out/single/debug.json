@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.deitel.weatherviewer.app-merged_res-32:/layout_content_main.xml.flat",
+        "source": "com.deitel.weatherviewer.app-main-34:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.deitel.weatherviewer.app-merged_res-32:/layout_list_item.xml.flat",
+        "source": "com.deitel.weatherviewer.app-main-34:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.deitel.weatherviewer.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.deitel.weatherviewer.app-main-34:/layout/activity_main.xml"
+    }
+]
